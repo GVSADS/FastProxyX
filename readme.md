@@ -28,11 +28,11 @@ The original Frp (https://github.com/Fatedier/frp/) is somewhat bloated in size,
 | Quick Setup| ✅| ✅|
 | Size| ✅| ❌|
 | SSL Support| ❌| ✅|
-| Embeddable| ✅| ✅❌ |
+| Embeddable| ✅| ⭕ |
 | Documentation| ✅| ✅|
 | TCP Support| ✅| ✅|
 | UDP Support| ❌| ✅|
-| HTTP/HTTPS Support| ❌| ✅|
+| HTTPS Support| ❌| ✅|
 
 Choose based on your needs:
 - If you prioritize **quick setup, small size, simplicity, and embeddability** (e.g., integrating into your Python project), PyFrp is a great choice.
@@ -214,11 +214,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 | 快速配置 | ✅ | ✅ |
 | 体积 | ✅ | ❌ |
 | SSL 功能 | ❌ | ✅ |
-| 嵌入式 | ✅ | ✅❌ |
+| 嵌入式 | ✅ | ⭕ |
 | 文档 | ✅ | ✅ |
 | TCP 支持 | ✅ | ✅ |
 | UDP 支持 | ❌ | ✅ |
-| HTTP/HTTPS 支持 | ❌ | ✅ |
+| HTTP 支持 | ❌ | ✅ |
 
 请您根据您的需要选择使用哪个，
 - 如果您需要快速配置，体积小，功能简单，嵌入式，集成到您自己的 Python 项目中，那么 PyFrp 是一个不错的选择。
